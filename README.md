@@ -57,5 +57,5 @@ http://card.apeto.cn
 > 你可以获得: 域名备案、服务器选择、无实体公司微信公众号开通流程、无实体公司支付宝支付开通流程、ChatGPT工具使用、国内代理服务器等信息
 
 
-<img src="file:///Users/wanmingyu/workspace/gokuaidian/ai-mechanician/15552582485422T2.JPG" alt="图片替换文本" width="200" height="220" align="bottom" />
+<img src="https://github.com/apeto2/java_chatgpt/blob/main/static/15552582485422T2%202.JPG?raw=true" alt="图片替换文本" width="200" height="220" align="bottom" />
 
