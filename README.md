@@ -6,6 +6,17 @@
 
 http://chat.warape.top
 
+
+|框架|版本|
+|----|----|
+|springboot|2.7|
+|redisson|3.17.0|
+|mybatis-plus|3.5.2|
+|IJPay|2.9.6|
+|knife4j|4.1.0|
+|sa-token|1.34.0|
+|weixin-java-mp|4.4.0|
+
 ### 功能及特性
 
 1. 多API支持和高性能优化版
@@ -24,15 +35,6 @@ http://chat.warape.top
 6. 提供支付帮助
 7. 主流框架支撑
 
-|框架|版本|
-|----|----|
-|springboot|2.7|
-|redisson|3.17.0|
-|mybatis-plus|3.5.2|
-|IJPay|2.9.6|
-|knife4j|4.1.0|
-|sa-token|1.34.0|
-|weixin-java-mp|4.4.0|
 
 #### 安装教程
 
